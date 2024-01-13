@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sadiya-C
+- 👋 Hi, I’m @Sadiya-025
 - 👀 I’m interested in Artificial Intelligence, Machine Learning, and Web Development.
 - 🌱 I’m currently learning C Programming Language
 - 💞️ I’m looking to collaborate on C Programming and HTML Projects
